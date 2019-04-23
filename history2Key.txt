@@ -1,5 +1,1 @@
-A
-B
-D
-D
-C
+ABDDC
