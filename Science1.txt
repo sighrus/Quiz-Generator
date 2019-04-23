@@ -1,0 +1,30 @@
+﻿Easy:
+1. True or false? Dogs are herbivores.
+   1. True
+   2. False - They are carnivores
+   3. False - They are omnivores (correct answers)
+   4. It depends
+
+2. The highest mountain on earth is?
+   1. Mount Everest (correct answer)
+   2. Mount Fuji
+   3. Mount Mauna Kea
+   4. K2
+
+3. The molten rock that comes from a volcano after it has erupted is known as what?
+   1. Lava (correct answer)
+   2. Slime
+   3. Poop
+   4. Spice
+
+4. True or false? The fastest land animal in the world is the zebra.
+   1. True
+   2. False (it is the cheetah) (correct answer)
+   3. It depends on the weather
+   4. Not enough information
+
+5. Water freezes at what temperature?
+   1.  0 °C (32 °F) (correct answer)
+   2.  0 °F (32 °C)
+   3.  0 °C (-32 °F)
+   4.  0 °C (36 °F)
