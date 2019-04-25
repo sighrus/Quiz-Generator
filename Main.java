@@ -89,9 +89,9 @@ public class Main {
         String math1Key = "./src/math1Key";
         String math2Key = "./src/math2Key";
         String math3Key = "./src/math3Key";
-        String history1Key = "./src/history1Key";
-        String history2Key = "./src/history2Key";
-        String history3Key = "./src/history3Key";
+        String history1Key = "./src/history1Key.txt";
+        String history2Key = "./src/history2Key.txt";
+        String history3Key = "./src/history3Key.txt";
         String science1Key = "./src/science1Key";
         String science2Key = "./src/science2Key";
         String science3Key = "./src/science3Key";
@@ -100,9 +100,9 @@ public class Main {
         String math1Path = "./src/math1";
         String math2Path = "./src/math2";
         String math3Path = "./src/math3";
-        String history1Path = "./src/history1";
-        String history2Path = "./src/history2";
-        String history3Path = "./src/history3";
+        String history1Path = "./src/history1.txt";
+        String history2Path = "./src/history2.txt";
+        String history3Path = "./src/history3.txt";
         String science1Path = "./src/science1";
         String science2Path = "./src/science2";
         String science3Path = "./src/science3";
